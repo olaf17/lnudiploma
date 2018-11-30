@@ -54,9 +54,6 @@ const help = go => () => {
   go("help");
 }
 
-const about = go => () => {
-  go("about");
-}
 
 const nop = () => {};//TODO: Remove me
 
